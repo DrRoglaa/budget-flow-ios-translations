@@ -6,9 +6,9 @@
 	<array>
 		<dict>
 			<key>Title</key>
-			<string>Predlagane opombe</string>
+			<string>Notes suggerides</string>
 			<key>Description</key>
-			<string>Med urejanjem opomb pri transakciji zdaj samodejno prejmete predlog na podlagi svojih prejšnjih vnosov, ki ga lahko uporabite z enim dotikom.</string>
+			<string>En editar les notes d’una transacció, ara rebràs automàticament una suggerència basada en les teves entrades anteriors, que pots aplicar directament tocant-la.</string>
 			<key>IconName</key>
 			<string>character.cursor.ibeam</string>
 			<key>IconColor</key>
@@ -16,9 +16,9 @@
 		</dict>
 		<dict>
 			<key>Title</key>
-			<string>Poenostavljen preračun valut</string>
+			<string>Conversió de divises simplificada</string>
 			<key>Description</key>
-			<string>Zdaj lahko zamenjate izvorno in ciljno valuto ter ustrezen menjalni tečaj, da lažje izračunate pravilne vrednosti.</string>
+			<string>Ara pots intercanviar la divisa d’origen i la de destinació, així com el tipus de canvi corresponent, per calcular més fàcilment els valors correctes.</string>
 			<key>IconName</key>
 			<string>arrow.up.arrow.down</string>
 			<key>IconColor</key>
@@ -26,9 +26,9 @@
 		</dict>
 		<dict>
 			<key>Title</key>
-			<string>Analiza obstoječih računov</string>
+			<string>Anàlisi de rebuts existents</string>
 			<key>Description</key>
-			<string>S pomočjo vgrajenega optičnega bralnika računov lahko zdaj analizirate tudi obstoječe račune, shranjene v aplikacijah Fotografije ali Datoteke, in jih uporabite za ustvarjanje transakcij.</string>
+			<string>Amb l’escàner de rebuts integrat, ara també pots analitzar els rebuts ja desats des de les aplicacions Fotos o Fitxers i utilitzar-los per crear transaccions.</string>
 			<key>IconName</key>
 			<string>custom.receipt.badge.arrow.up</string>
 			<key>IconColor</key>
